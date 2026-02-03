@@ -1,6 +1,6 @@
 ## 🛡️ Security Operations & Defensive Analysis
 
-I focus on security operations, defensive analysis, and exposure reduction across endpoint, identity, network, and cloud environments. My work emphasizes hypothesis-driven analysis, evidence-based decision making, and separating actionable security risk from background noise.
+I focus on security operations & defensive analysis across endpoint, identity, network, and cloud resources. My work emphasizes hypothesis-driven analysis, evidence-based decision making, and identifying actionable security risk.
 
 This GitHub centralizes hands-on projects, investigation walkthroughs, and practical security analysis to demonstrate how I reason through SOC operations.
 
