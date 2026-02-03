@@ -1,4 +1,4 @@
-## 🛡️ Security Operations & Threat Investigation
+## 🛡️ Security Operations & Defensive Analysis
 
 I focus on security operations, threat investigation, and exposure reduction across endpoint, identity, network, and cloud environments. My work emphasizes hypothesis-driven analysis, evidence-based decision making, and separating actionable security risk from background noise.
 
