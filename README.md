@@ -1,17 +1,17 @@
-## Security Operations & Threat Investigation
+🛡️ ## Security Operations & Threat Investigation
 
-I focus on security operations, threat investigation, and exposure reduction across endpoint, identity, network, and cloud environments. My work emphasizes hypothesis-driven analysis, evidence-based decision making, and separating security risk from background noise.
+I focus on security operations, threat investigation, and exposure reduction across endpoint, identity, network, and cloud environments. My work emphasizes hypothesis-driven analysis, evidence-based decision making, and separating actionable security risk from background noise.
 
-This GitHub centralizes hands-on projects, investigation walkthroughs, and security research to demonstrate how I reaon through SOC operations.
+This GitHub centralizes hands-on projects, investigation walkthroughs, and practical security analysis to demonstrate how I reason through SOC operations.
 
 ---
 
 ### Areas of Focus
-- Security Operations (SOC) analysis and alert triage  
-- Hypothesis-driven threat hunting and investigation  
+- Alert triage & validaiton  
+- Hypothesis-driven threat investigation and analysis  
 - Endpoint, identity, network, and cloud telemetry correlation  
 - Exposure reduction and attack surface hardening  
-- Clear documentation to support defensible escalation and closure
+- Clear documentation to support defensible escalation or closure
 
 ### Tools & Technologies
 - Microsoft Defender XDR, Microsoft Sentinel (KQL)  
@@ -24,8 +24,17 @@ This GitHub centralizes hands-on projects, investigation walkthroughs, and secur
 
 ### Featured Work
 
-- [**Threat Investigation & SOC Workflows**](placeholder)
-- [**Exposure Reduction & Vulnerability Management**](placeholder)
+- **Phishing Investigation & Alert Validation**  
+  End-to-end analysis of phishing alerts, identity signals, and user impact to determine escalation and response actions.
+
+- **Azure Resource Exposure & Initial Access Analysis**  
+  Investigation of internet-exposed cloud resources and authentication telemetry to assess initial access risk and recommend exposure reduction.
+
+### Additional Investigations & Lab Projects
+- SIEM-Based Lateral Movement Investigation (Splunk ES)
+- Endpoint & Network Telemetry Analysis (Wazuh Lab)
+- Alert Tuning & Noise Reduction Exercises
+- Detection Validation & Threat Emulation (Lab-Based)
 
 ---
 
