@@ -1,8 +1,8 @@
 ## Security Operations & Threat Investigation
 
-I focus on security operations, threat investigation, and exposure reduction across endpoint, identity, network, and cloud environments. My work emphasizes hypothesis-driven analysis, evidence-based decision making, and separating actionable security risk from background noise.
+I focus on security operations, threat investigation, and exposure reduction across endpoint, identity, network, and cloud environments. My work emphasizes hypothesis-driven analysis, evidence-based decision making, and separating security risk from background noise.
 
-This GitHub centralizes hands-on projects, investigation walkthroughs, and lab-based research that demonstrate how I approach SOC workflows, alert triage, and defensive analysis using modern security tooling.
+This GitHub centralizes hands-on projects, investigation walkthroughs, and security research to demonstrate how I reaon through SOC operations.
 
 ---
 
@@ -18,14 +18,14 @@ This GitHub centralizes hands-on projects, investigation walkthroughs, and lab-b
 - Splunk Enterprise Security, SPL  
 - Endpoint & network telemetry (EDR/XDR, Sysmon, NIDS)  
 - Authentication & access logs, phishing analysis, OSINT  
-- Azure Security (identity, logging, resource exposure)  
+- Azure Security (identity, logging, resource exposure analysis)
 
 ---
 
 ### Featured Work
 
-(link to threat hunt folder)
-(link to vulnerability managemnt folder)
+[**Threat Investigation & SOC Workflows**](placeholder)
+[** Exposure Reduction & Vulnerability Management**](placeholder)
 
 ---
 
