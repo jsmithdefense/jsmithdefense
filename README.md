@@ -24,8 +24,8 @@ This GitHub centralizes hands-on projects, investigation walkthroughs, and secur
 
 ### Featured Work
 
-[**Threat Investigation & SOC Workflows**](placeholder)
-[** Exposure Reduction & Vulnerability Management**](placeholder)
+- [**Threat Investigation & SOC Workflows**](placeholder)
+- [**Exposure Reduction & Vulnerability Management**](placeholder)
 
 ---
 
