@@ -10,7 +10,7 @@ This GitHub centralizes hands-on projects, investigation walkthroughs, and pract
 - Alert triage and validation  
 - Incident assessment  
 - Endpoint, identity, network, and cloud telemetry correlation  
-- Exposure reduction and attack surface hardening  
+- Vulnerability assesment and attack surface hardening  
 - Clear documentation to support defensible escalation or closure  
 
 ---
