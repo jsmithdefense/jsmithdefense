@@ -8,7 +8,7 @@ I focus on security operations and defensive analysis across endpoint, identity,
 - Alert triage and validation  
 - Incident assessment  
 - Endpoint, identity, network, and cloud telemetry correlation  
-- Vulnerability assesment and attack surface hardening  
+- Vulnerability assessment and attack surface reduction  
 - Clear documentation to support defensible escalation or closure  
 
 
