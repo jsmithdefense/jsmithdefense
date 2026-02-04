@@ -21,10 +21,11 @@ I focus security operations and defensive analysis across endpoint, identity, ne
 
 ---
 
-### Featured Projects
+### Highlighted Projects
 
 - [**Azure Resource Exposure & Initial Access Investigation**](https://github.com/jsmithdefense/Security-Projects/blob/main/Threat-Investigation/MDXDR-Internet-Exposure-Initial-Access.md)
 
+- [**Spear-Phishing & Lateral Movememnt Investigation**](
 
 #### [All Projects](https://github.com/jsmithdefense/Security-Projects/tree/main)
 
