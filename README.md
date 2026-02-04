@@ -13,7 +13,6 @@ This GitHub centralizes hands-on projects and investigations that reflect how SO
 - Vulnerability assesment and attack surface hardening  
 - Clear documentation to support defensible escalation or closure  
 
----
 
 ### Tools & Technologies
 - Microsoft Defender XDR, Microsoft Sentinel (KQL)  
@@ -24,14 +23,13 @@ This GitHub centralizes hands-on projects and investigations that reflect how SO
 
 ---
 
-### Featured Work
-**Phishing Investigation & Alert Validation** - Analysis of a spear-phishing event to assess scope and impact.
+### Featured Projects
+- [**Phishing Investigation & Alert Validation**](placeholder)
 
-[**Azure Resource Exposure & Initial Access Analysis**](Investigations/MDXDR-Internet-Exposure-Initial-Access.md) - Assessment of an internet-exposed cloud resource to validate initial access outcomes.
+- [**Azure Resource Exposure & Initial Access Analysis**](Investigations/MDXDR-Internet-Exposure-Initial-Access.md)
 
----
 
-### Additional Investigations & Lab Projects
+### All Projects
 - [Threat Investigation](https://github.com/jsmithdefense/Threat-Investigation)
 - [Detection & Alerting](placeholder)
 - [Vulnerability Management](placeholder)
@@ -43,8 +41,6 @@ This GitHub centralizes hands-on projects and investigations that reflect how SO
 - Splunk Certified Cybersecurity Defense Analyst (CCDA)  
 - Microsoft AZ-900  
 - SC-200 (In Progress)
-
----
 
 📫 **Contact**  
 LinkedIn: https://www.linkedin.com/in/jsmithsec/  
