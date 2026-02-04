@@ -22,7 +22,6 @@ I focus on security operations and defensive analysis across endpoint, identity,
 ---
 
 ### Featured Projects
-- [**Phishing Investigation & Alert Validation**](placeholder)
 
 - [**Azure Resource Exposure & Initial Access Analysis**](Investigations/MDXDR-Internet-Exposure-Initial-Access.md)
 
