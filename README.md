@@ -34,10 +34,9 @@ Assessment of internet-exposed cloud resources and authentication telemetry to e
 ---
 
 ### Additional Investigations & Lab Projects
-- SIEM-Based Lateral Movement Investigation (Splunk ES)  
-- Endpoint & Network Telemetry Analysis (Wazuh Lab)  
-- Alert Tuning & Noise Reduction Exercises  
-- Detection Validation & Threat Emulation (Lab-Based)  
+- [Threat Investigation](palceholder)
+- [Detection & Alerting](placeholder)
+- [Vulnerability Management](placeholder)
 
 ---
 
