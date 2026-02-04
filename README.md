@@ -1,6 +1,6 @@
 ## 🛡️ Security Operations & Defensive Analysis
 
-I focus on security operations and defensive analysis across endpoint, identity, network, and cloud environments, with an emphasis on alert validation and risk assessment.
+I focus security operations and defensive analysis across endpoint, identity, network, and cloud environments, with an emphasis on alert validation and risk assessment.
 
 ---
 
