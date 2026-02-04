@@ -25,9 +25,9 @@ This GitHub centralizes hands-on projects, investigation walkthroughs, and pract
 ---
 
 ### Featured Work
-**Phishing Investigation & Alert Validation** - End to end analysis of a spear-phishing attack to determine scope and impact of the incident
+**Phishing Investigation & Alert Validation** - Analysis of a spear-phishing event to assess scope and impact.
 
-[**Azure Resource Exposure & Initial Access Analysis**](Investigations/MDXDR-Internet-Exposure-Initial-Access.md) - Investigation of an unintentnded internet-exposed cloud resourcee to validate whether initial access attempts progressed into a successful compromise
+[**Azure Resource Exposure & Initial Access Analysis**](Investigations/MDXDR-Internet-Exposure-Initial-Access.md) - Assessment of an internet-exposed cloud resource to validate initial access outcomes.
 
 ---
 
