@@ -23,7 +23,7 @@ I focus on security operations and defensive analysis across endpoint, identity,
 
 ### Featured Projects
 
-- [**Azure Resource Exposure & Initial Access Analysis**](Investigations/MDXDR-Internet-Exposure-Initial-Access.md)
+- [**Azure Resource Exposure & Initial Access Analysis**](https://github.com/jsmithdefense/Threat-Investigation/blob/main/Investigations/MDXDR-Internet-Exposure-Initial-Access.md)
 
 
 ### All Projects
