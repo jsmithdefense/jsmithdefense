@@ -28,8 +28,8 @@ This GitHub centralizes hands-on projects, investigation walkthroughs, and pract
 **Phishing Investigation & Alert Validation**  
 End-to-end analysis of phishing alerts, identity signals, and user impact to determine escalation and response actions.
 
-**Azure Resource Exposure & Initial Access Analysis**  
-Assessment of internet-exposed cloud resources and authentication telemetry to evaluate initial access risk and recommend exposure reduction.
+[**Azure Resource Exposure & Initial Access Analysis**](Investigations/MDXDR-Internet-Exposure-Initial-Access.md)  
+Investigation of an unintentnded internet-exposed cloud resourcee to validate whether initial access attempts progressed into a successful compromise
 
 ---
 
