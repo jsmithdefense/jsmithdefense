@@ -3,6 +3,7 @@
 I focus on security operations and defensive analysis across endpoint, identity, network, and cloud environments, with an emphasis on alert validation, risk assessment, and identifying actionable security issues.
 
 This GitHub centralizes hands-on projects and investigations that reflect how SOC work is performed in practice.
+
 ---
 
 ### Areas of Focus
