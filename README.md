@@ -34,7 +34,7 @@ Assessment of internet-exposed cloud resources and authentication telemetry to e
 ---
 
 ### Additional Investigations & Lab Projects
-- [Threat Investigation](palceholder)
+- [Threat Investigation](https://github.com/jsmithdefense/Threat-Investigation)
 - [Detection & Alerting](placeholder)
 - [Vulnerability Management](placeholder)
 
