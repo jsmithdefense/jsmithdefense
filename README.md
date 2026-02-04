@@ -28,7 +28,7 @@ I focus on security operations and defensive analysis across endpoint, identity,
 
 
 ### All Projects
-- [Threat Investigation](https://github.com/jsmithdefense/Threat-Investigation)
+- [Threat Investigations](https://github.com/jsmithdefense/Threat-Investigation)
 - [Detection & Alerting](placeholder)
 - [Vulnerability Management](placeholder)
 
