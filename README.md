@@ -23,7 +23,7 @@ I focus security operations and defensive analysis across endpoint, identity, ne
 
 ### Highlighted Projects
 
-- [**Credential Exposure Risk and Cloud Storage Trust Absue** - Azure](https://github.com/jsmithdefense/Security-Projects/blob/main/Detection-and-Alerting/Azure-Credential-Exposure.md)
+- [**Cloud Storage and Credential Exposure Riske** - Azure](https://github.com/jsmithdefense/Security-Projects/blob/main/Detection-and-Alerting/Azure-Credential-Exposure.md)
 
 - [**Spear-Phishing & Lateral Movememnt Investigation** - Splunk](https://github.com/jsmithdefense/Security-Projects/blob/main/Threat-Investigation/Splunk-Phishing-Lateral-Movement.md)
 
