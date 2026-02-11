@@ -25,9 +25,10 @@ I focus security operations and defensive analysis across endpoint, identity, ne
 
 - [**Cloud Storage and Credential Exposure Risk** - Azure](https://github.com/jsmithdefense/Security-Projects/blob/main/Detection-and-Alerting/Azure-Credential-Exposure.md)
  
-  _Traced phishing campaign from initial access through exfiltration, correlated web/email/auth/endpoint logs to asses scope and impact_
   
 - [**Spear-Phishing & Lateral Movememnt Investigation** - Splunk](https://github.com/jsmithdefense/Security-Projects/blob/main/Threat-Investigation/Splunk-Phishing-Lateral-Movement.md)
+
+  > _Traced a phishing campaign from initial access through exfiltration, correlated web/email/auth/endpoint logs to asses scope and impact_
 
 #### [All Projects](https://github.com/jsmithdefense/Security-Projects/tree/main)
 
