@@ -24,7 +24,8 @@ I focus security operations and defensive analysis across endpoint, identity, ne
 ### Highlighted Projects
 
 - [**Cloud Storage and Credential Exposure Risk** - Azure](https://github.com/jsmithdefense/Security-Projects/blob/main/Detection-and-Alerting/Azure-Credential-Exposure.md)
- 
+
+ > _Analyzed Azure storage key and SAS enumeration activity to identify abnormal credential exposure risk using KQL._
   
 - [**Spear-Phishing & Lateral Movememnt Investigation** - Splunk](https://github.com/jsmithdefense/Security-Projects/blob/main/Threat-Investigation/Splunk-Phishing-Lateral-Movement.md)
 
