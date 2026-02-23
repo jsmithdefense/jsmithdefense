@@ -33,11 +33,13 @@ I'm drawn to the **how** behind attacks. _What trust boundary failed? Which iden
 
 ---
 
+<div align="center">
+
 ### Certifications
-- CompTIA Security+  
-- Splunk Certified Cybersecurity Defense Analyst (CCDA)  
-- Microsoft AZ-900  
-- SC-200 (In Progress)
+
+SC-200 *(In Progress)* · Splunk CCDA · CompTIA Security+ · Microsoft AZ-900
+
+</div>
 
 <div align="center">
 
