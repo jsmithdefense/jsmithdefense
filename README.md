@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Julian%20Smith&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=%22Defense%20isn't%20just%20blocking%20activity%20%E2%80%94%20it's%20understanding%20why%20it%20was%20possible%22&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 
-Cybersecurity practioner with a focus on soc operations and defensive analysis across endpoint, identity, network, and cloud enviorments. 
+Cybersecurity practitioner with a focus on SOC operations and defensive analysis across endpoint, identity, network, and cloud environments. I'm drawn to the 'how' behind attacks. What trust boundary failed? Which identity had too much access? What does the telemetry actually prove? Always working on ways to identify and close those gaps without breaking things or creating operational friction.
 
 
 ### Tools & Technologies
