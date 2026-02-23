@@ -15,8 +15,10 @@ I'm drawn to the **how** behind attacks. _What trust boundary failed? Which iden
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+[![Tenable](https://img.shields.io/badge/Tenable-%23000000?style=for-the-badge&logo=Tenable&logoColor=white)](https://www.tenable.com)   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
 
 </div>
 
