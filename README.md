@@ -23,7 +23,7 @@ Cybersecurity practioner with a focus on soc operations and defensive analysis a
 
   > _Investigated a spear-phishing campaign attributed to Taaedonggang APT. Correlated email, endpoint, and network telemetry to trace the attack from a malicious invoice attachment through PowerShell AMSI evasion, C2 beaconing, and lateral movement across four hosts. Estimated roughly 120MB of outbound data exfiltrated across the environment._
 
-#### [All Projects](https://github.com/jsmithdefense/Security-Projects/tree/main)
+#### [🔗 All Projects](https://github.com/jsmithdefense/Security-Projects/tree/main)
 
 ---
 
