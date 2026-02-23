@@ -19,11 +19,11 @@ I focus security operations and defensive analysis across endpoint, identity, ne
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 
+- Azure Security (identity, logging, resource exposure analysis)  
 - Microsoft Defender XDR, Microsoft Sentinel (KQL)  
 - Splunk Enterprise Security, SPL  
 - Endpoint & network telemetry (EDR/XDR, Sysmon, NIDS)  
 - Authentication & access logs, phishing analysis, OSINT  
-- Azure Security (identity, logging, resource exposure analysis)  
 
 ---
 
@@ -51,4 +51,3 @@ I focus security operations and defensive analysis across endpoint, identity, ne
 LinkedIn: https://www.linkedin.com/in/jsmithsec/  
 Email: jsmithsec.connect@gmail.com
 
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
