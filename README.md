@@ -1,10 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Julian%20Smith&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Security%20Analyst&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Julian%20Smith&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=%22Defense%20isn't%20just%20blocking%20activity%20%E2%80%94%20it's%20understanding%20why%20it%20was%20possible%22&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 
+Cybersecurity practioner with a focus on soc operations and defensive analysis across endpoint, identity, network, and cloud enviorments. 
 
-
-I focus on security operations and defensive analysis — digging into alerts, correlating logs, and understanding what attackers are actually doing across endpoint, identity, network, and cloud environments.
-The projects here are self-driven, built around real tooling and real detection scenarios. I work primarily in the Microsoft ecosystem and Splunk.
 
 ### Tools & Technologies
 
@@ -13,24 +11,17 @@ The projects here are self-driven, built around real tooling and real detection 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-
-- Azure Security (identity, logging, resource exposure analysis)  
-- Microsoft Defender XDR, Microsoft Sentinel (KQL)  
-- Splunk Enterprise Security, SPL  
-- Endpoint & network telemetry (EDR/XDR, Sysmon, NIDS)  
-- Authentication & access logs, phishing analysis, OSINT  
-
 ---
 
 ### Highlighted Projects
 
 - [**Cloud Storage and Credential Exposure Risk** - Azure](https://github.com/jsmithdefense/Security-Projects/blob/main/Detection-and-Alerting/Azure-Credential-Exposure.md)
 
-  > _Analyzed Azure storage key and SAS enumeration activity to identify abnormal credential exposure using KQL._
+  > _Used a Microsoft CTI report to reason about how implicit trust of keys or SAS tokens enables a path to silent persistence in Azure. Once enumerated, access is granted without re-evaluating identity. I built a KQL detection to flag identities enumarating their credentials outside of their normal pattern, where that risk is highest._
   
 - [**Spear-Phishing & Lateral Movememnt Investigation** - Splunk](https://github.com/jsmithdefense/Security-Projects/blob/main/Threat-Investigation/Splunk-Phishing-Lateral-Movement.md)
 
-  > _Traced a phishing campaign from initial access through exfiltration, correlated web/email/auth/endpoint logs to asses scope and impact_
+  > _Investigated a spear-phishing campaign attributed to Taaedonggang APT. Correlated email, endpoint, and network telemetry to trace the attack from a malicious invoice attachment through PowerShell AMSI evasion, C2 beaconing, and lateral movement across four hosts. Estimated roughly 120MB of outbound data exfiltrated across the environment._
 
 #### [All Projects](https://github.com/jsmithdefense/Security-Projects/tree/main)
 
@@ -42,7 +33,8 @@ The projects here are self-driven, built around real tooling and real detection 
 - Microsoft AZ-900  
 - SC-200 (In Progress)
 
-📫 **Contact**  
-LinkedIn: https://www.linkedin.com/in/jsmithsec/  
-Email: jsmithsec.connect@gmail.com
+<div align="center">
 
+📧 [LinkedIn](https://www.linkedin.com/in/jsmithsec/) · jsmithsec.connect@gmail.com
+
+</div>
