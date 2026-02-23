@@ -5,11 +5,10 @@ I focus security operations and defensive analysis across endpoint, identity, ne
 ---
 
 ### Areas of Focus
-- Alert triage and validation  
-- Incident assessment  
-- Endpoint, identity, network, and cloud telemetry correlation  
-- Vulnerability assessment and attack surface reduction  
-- Clear documentation to support defensible escalation or closure  
+- Triage and deep investigation of security alerts across endpoint, identity, and cloud logs
+- Correlating telemetry to understand scope, intent, and real impact
+- Finding misconfigurations and reducing attack surface (especially in Azure)
+- Writing clear, defensible notes that explain why something was escalated or closed
 
 
 ### Tools & Technologies
