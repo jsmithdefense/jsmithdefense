@@ -1,13 +1,10 @@
-## 🛡️ Security Operations & Defensive Analysis
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Julian%20Smith&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Security%20Analyst&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-I focus security operations and defensive analysis across endpoint, identity, network, and cloud environments, with an emphasis on alert triage and risk analysis.
 
----
 
-### Areas of Focus
-- Triage and deep investigation of security alerts across endpoint, identity, and cloud logs
-- Correlating telemetry to understand attacker behavior, intent, and potential impact
-- Reasoning about ways to mitigate risk without negatively impacting buisness or end user operations
+
+I focus on security operations and defensive analysis — digging into alerts, correlating logs, and understanding what attackers are actually doing across endpoint, identity, network, and cloud environments.
+The projects here are self-driven, built around real tooling and real detection scenarios. I work primarily in the Microsoft ecosystem and Splunk.
 
 ### Tools & Technologies
 
