@@ -30,7 +30,7 @@ I'm drawn to the **how** behind attacks. _What trust boundary failed? Which iden
   
 - [**Spear-Phishing & Lateral Movememnt Investigation** - Splunk](https://github.com/jsmithdefense/Security-Projects/blob/main/Threat-Investigation/Splunk-Phishing-Lateral-Movement.md)
 
-  > _Investigated a spear-phishing campaign attributed to Taaedonggang APT. Correlated email, endpoint, and network telemetry to trace the attack from a malicious invoice attachment through PowerShell AMSI evasion, C2 beaconing, and lateral movement across four hosts. Estimated roughly 120MB of outbound data exfiltrated across the environment._
+  > _Investigated a spear-phishing campaign attributed to Taaedonggang APT. Correlated email, endpoint, and network telemetry to trace the attack from a malicious invoice attachment, through AMSI evasion, C2 beaconing, and lateral movement. Estimated roughly 120MB of outbound data exfiltrated across the environment._
 
 #### [🔗 All Projects](https://github.com/jsmithdefense/Security-Projects/tree/main)
 
