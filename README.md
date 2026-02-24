@@ -20,6 +20,8 @@ Always working on ways to identify and close those gaps without breaking things 
 [![Tenable](https://img.shields.io/badge/Tenable-%23000000?style=for-the-badge&logo=Tenable&logoColor=white)](https://www.tenable.com)   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 
 
 </div>
