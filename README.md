@@ -7,7 +7,7 @@ Cybersecurity practitioner focused on SOC operations and defensive analysis acro
 
 I'm drawn to the **_how_** behind attacks. **_What trust boundary failed? Which identity had too much access? Which log sources capture this behavior?_** 
 
-Always working on ways to identify and close those gaps without breaking things or creating operational friction.
+Always working on ways to identify and close those gaps with while minimizing operational friction.
 
 </div>
 
