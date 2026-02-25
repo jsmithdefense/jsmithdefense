@@ -3,7 +3,7 @@
 
 <div align="center">
 
-Cybersecurity practitioner with a focus on SOC operations and defensive analysis across endpoint, identity, network, and cloud environments.
+Cybersecurity practitioner focused on SOC operations and defensive analysis across endpoint, identity, network, and cloud environments.
 
 I'm drawn to the **_how_** behind attacks. **_What trust boundary failed? Which identity had too much access? Which log sources capture this behavior?_** 
 
